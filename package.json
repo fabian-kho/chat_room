@@ -1,0 +1,8 @@
+{
+  "name": "chat_room",
+  "version": "1.0.0",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "tailwindcss": "^3.2.4"
+  }
+}
